@@ -1,4 +1,4 @@
-function theBeatlesPlay(musicians, instruments){
+7890-function theBeatlesPlay(musicians, instruments){
   var array = [];
   // newObj = 
   for ( let i = 0; i < musicians.length; i++){
